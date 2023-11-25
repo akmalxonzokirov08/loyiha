@@ -1,0 +1,146 @@
+|*{
+    margin: 0%;
+    padding: 0%;
+}
+.z{
+    background-color: #02786c;
+    padding: 8px;
+}
+.z1{
+    margin: auto;
+    max-width: 1140px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    color: white;
+}
+.a{
+    
+    background-color: #008375;
+    padding: 8px;
+}
+.a2 a{
+    color: white;
+    font-size: 25px;
+    text-decoration: none;
+}
+.a3 ul{
+    display: flex;
+    margin-top: 5px;
+}
+.a3 ul li{
+    padding: 5px 10px;
+    list-style: none;
+
+}
+.a3 ul li a{
+    text-decoration: none;
+    color: white;
+    
+}
+.a3 ul li a:hover{
+    border-bottom: 1px solid orange;
+}
+.q{
+    background-color: #008375;
+    height: 500px;
+}
+.q .z1{
+    align-items: center;
+}
+.q1 h1{
+    font-size: 30px
+}
+.q1 a{
+   border: 3px solid #229B8C;
+   color: white;
+   border-radius: 50px;
+   padding:  10px 12px;
+   background-color: #179281;
+   text-decoration: none;
+}
+.q1 a:hover{
+    background-color: #02786c;
+}
+.q1 i{
+    font-size: 19px;
+}
+.q1 span{
+    font-size: 17px;
+}
+.p{
+    
+    display: flex;
+    padding: 0px 20px 20px;
+}
+.p h2{
+    color: white;
+
+}
+.p1{
+    margin: -130px 230px 700px;
+    text-align: center;
+    width:200px;
+    height: 250px;
+    background-color:#179281;
+    box-shadow: 2px 1px 10px;
+}
+.p2{
+    font-size: 19px;
+    margin: -130px -180px 0px;
+    text-align: center;
+    width:200px;
+    height: 250px;
+    background-color:#179281;
+    box-shadow: 2px 1px 10px;
+}
+.p3{
+    margin: -130px 230px 0px;
+    text-align: center;
+    width:200px;
+    height: 250px;
+    background-color:#179281;
+    box-shadow: 2px 1px 10px;
+}
+.p4{
+    margin: -130px -180px 0px;
+    text-align: center;
+    width:200px;
+    height: 250px;
+    background-color:#179281;
+    box-shadow: 2px 1px 10px;
+}
+.p1 i{
+    padding: 30px 0px 0px;
+    color: white;
+    font-size: 40px;
+}
+.p2 i{
+    padding: 30px 0px 0px;
+    color: white;
+    font-size: 40px;
+}
+.p3 i{
+    padding: 30px 0px 0px;
+    color: white;
+    font-size: 40px;
+}
+.p4 i{
+    padding: 30px 0px 0px;
+    color: white;
+    font-size: 40px;
+}
+.p1:hover{
+    color:white;
+}
+.p2:hover{
+    color:white;
+}
+.p3:hover{
+    color:white;
+}
+.p4:hover{
+    color:white;
+}
+
+

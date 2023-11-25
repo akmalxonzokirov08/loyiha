@@ -1,0 +1,60 @@
+body{
+    background-color: lightgray;
+}
+.blok {
+    text-align: center;
+}
+.blok p{
+    margin: 0px 400px 0px;
+}
+.r{
+    display: flex;
+    /* margin:  50px 110px 0px; */
+    max-width: 1140px;
+    margin:0 auto;
+    justify-content: space-around;
+}
+.r1{
+    text-align: center;
+    background-color: white;
+    margin: 20px;
+    padding: 30px;
+    width: 20%;
+
+}
+.r1 img{
+    border-radius: 50%;
+}
+.r1 i{
+    font-size: 40px;
+    color: blue;
+}
+.r2{
+    text-align: center;
+    background-color: white;
+    margin: 20px;
+    padding: 30px;
+    width: 20%;
+}
+.r2 img{
+    border-radius: 50%;
+}
+.r2 i{
+    font-size: 40px;
+    color: blue;
+}
+.r3{
+    text-align: center;
+    background-color: white;
+    
+    margin: 20px;
+    padding: 30px;
+    width: 20%;
+}
+.r3 img{
+    border-radius: 50%;
+}
+.r3 i{
+    font-size: 40px;
+    color: blue;
+}
