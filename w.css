@@ -142,5 +142,9 @@
 .p4:hover{
     color:white;
 }
-
+.salom{
+    background-image: linear-gradient(red , blue);
+    height: 200px;
+    width: 200px;
+}
 
